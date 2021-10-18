@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kelvin Abadaike
+- 👀 I’m interested in Fullstack Development (and everything concerning tech)
+- 🌱 I’m currently learning React and Nodejs
+- 💞️ I’m looking to collaborate on various public repo's
+- 📫 How to reach me kelvinpro180@gmail.com
